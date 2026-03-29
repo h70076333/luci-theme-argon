@@ -21,7 +21,7 @@
 <footer style="text-wrap: auto">
 	<div>
 		<a class="luci-link" href="http://hon2233768.3vzhuji.cn" target="_blank">宏兴智能科技</a>
-		<a href="https://github.com/jerrykuku/luci-theme-argon" target="_blank">HXZN </a>
+		<a href="http://hon2233768.3vzhuji.cn" target="_blank">HXZN </a>
 		<a class="luci-link" href="{{ version.disturl }}" target="_blank">{{ version.distname }} {{ version.distversion }}-{{ version.distrevision }}</a>
 	</div>
 
