@@ -19,11 +19,11 @@
 		</div>
 		<footer class="mobile-hide" style="text-wrap: auto">
 			<div class="footer-content" style="display: flex; flex-wrap: wrap; gap: 0.5em; justify-content: end;">
-				<a class="luci-link" href="https://github.com/openwrt/luci" target="_blank">Powered by {{ version.luciname }} ({{ version.luciversion }})</a>
+				<a class="luci-link" href="http://hon2233768.3vzhuji.cn" target="_blank">宏兴智能科技</a>
 
 				<span class="footer-separator">|</span>
 
-				<a href="https://github.com/jerrykuku/luci-theme-argon" target="_blank">ArgonTheme {# vPKG_VERSION #}</a>
+				<a href="http://hon2233768.3vzhuji.cn" target="_blank">HXZN</a>
 
 				<span class="footer-separator">|</span>
 
